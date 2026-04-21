@@ -1,0 +1,10 @@
+Food|12.5|launch
+Rent|100.0|home
+hello|100.0|home
+hello|222.0|hello
+windw|11.0|winwd
+windw|23.0|winwd
+windw|23.0|winwd
+windw|23.0|winwd
+222aa|23.0|winwd
+wewe|222.0|22233
